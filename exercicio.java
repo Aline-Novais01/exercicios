@@ -1,3 +1,4 @@
+https://www.hackerrank.com/domains/java
 exercicio 1
 
   public class Solution {
